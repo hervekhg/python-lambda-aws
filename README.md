@@ -1,2 +1,2 @@
 # python-lambda-aws
-This Repository contains lambda function for AWS
+This Repository contains some lambdas functions for AWS
