@@ -6,3 +6,6 @@ This lambda function rename **OLD_NAME_DDMMAAAA** to **NEW_NAMEAAAAMMDD** it's s
 
 ## StartStopEc2ByTag
 This lambda start or stop ec2 instances with specific tag
+
+## ActivateCloudTrailLogging
+This lambda activate Cloudtrail logging
