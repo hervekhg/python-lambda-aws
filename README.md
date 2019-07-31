@@ -9,3 +9,6 @@ This lambda start or stop ec2 instances with specific tag
 
 ## ActivateCloudTrailLogging
 This lambda activate Cloudtrail logging
+
+## EnableVPCFlowLogs
+This lambda Extract the VPC ID from the event and enable VPC Flow Logs.
